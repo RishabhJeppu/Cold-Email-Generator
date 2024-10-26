@@ -50,7 +50,7 @@ To run this project, ensure you have the following prerequisites installed:
 
 4. Run the main script:
     ```bash
-    python main.py
+    streamlit run main.py
     ```
 
 ## Contributing
